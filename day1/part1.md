@@ -10,7 +10,7 @@ Amassez des étoiles en résolvant des puzzles. Deux puzzles vous seront rendus 
 
 Avant que vous ne partiez, les Elfes de la comptabilité ont juste besoin que vous répariez votre *rapport de dépenses* : apparemment, le compte n'y est pas.
 
-Plus précisément, ils veulent que vous *trouviez les deux entrées du rapport dont la somme vaut ``<em>2020</em>`` et que vous les multipliez ensemble.
+Plus précisément, ils veulent que vous *trouviez les deux entrées du rapport dont la somme vaut <code>2020</code>* et que vous les multipliez ensemble.
 
 Par exemple, supposons que votre rapport de dépense contienne les données suivantes :
 
@@ -23,6 +23,6 @@ Par exemple, supposons que votre rapport de dépense contienne les données suiv
 1456
 ```
 
-Dans cette liste, les deux entrées dont la somme vaut ``2020``  sont ``1721`` et ``299``. Les multiplier ensemble donne ``1721 * 299 = 514579``, donc la réponse correcte est ``<em>514579</em>``.
+Dans cette liste, les deux entrées dont la somme vaut ``2020``  sont ``1721`` et ``299``. Les multiplier ensemble donne ``1721 * 299 = 514579``, donc la réponse correcte est <code><em>514579</em></code>.
 
 Bien sur, votre rapport de dépense est bien plus grand. *Trouvez les deux entrées du rapport dont la somme vaut ``2020``. Quel nombre obtenez vous en les multipliant ensemble ?*
