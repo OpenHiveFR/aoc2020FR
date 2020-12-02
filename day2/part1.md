@@ -19,4 +19,4 @@ Chaque ligne donne la politique d'un mot-de-passe, puis le mot-de-passe en quest
 
 Dans l'exemple ci-dessus, <code><em>2</code></em> mots-de-passe sont valides. Le mot-de-passe du milieu, ``cdefg``, ne l'est pas : Il ne contient aucune instance de ``b``, mais sa politique en exige au moins ``1``. Le premier et le troisième mots-de-passe sont valides : ils contiennent un ``a`` ou neuf ``c``, chacun restant alors dans les bornes de leurs politiques respectives.
 
-*Combien de mots-de-passe sont valides** selon leurs politiques ?
+*Combien de mots-de-passe sont valides* selon leurs politiques ?
