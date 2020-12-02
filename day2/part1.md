@@ -12,7 +12,7 @@ Par exemple, supposez que vous ayiez la liste suivante :
 
 <pre><code>1-3 a: abcde
 1-3 b: cdefg
-2-9 cc: ccccccccc
+2-9 c: ccccccccc
 </code></pre>
 
 Chaque ligne donne la politique d'un mot-de-passe, puis le mot-de-passe en question. La politique d'un mot-de-passe indique le plus bas et le plus haut nombre de fois qu'une lettre doit appartaître dans un mot-de-passe pour être valide. Par exemple, ``1-3 a`` signifie que le mot-de-passe doit contenir ``a`` au moins ``1`` fois et au plus ``3`` fois.
