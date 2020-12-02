@@ -1,8 +1,8 @@
 ## --- Partie Deux ---
 
-Alors qu'il apparaît que vous avez correctement validé les mots-de-passe, ils n'ont pas l'air d'être ce que le Systeme Officiel d'Authentification des Entreprises de Toboggan attends.
+Alors qu'il apparaît que vous avez correctement validé les mots-de-passe, ils n'ont pas l'air d'être ce que le Système Officiel d'Authentification des Entreprises de Toboggan attends.
 
-Le gérrant du magasin de location réalise soudainement qu'il vient de vous expliquer accidentellement les règles des politiques de mots-de-passe de son ancien travail, au magasin de location de luges plus bas dans la rue ! En réalité, la Politique Officielle des Entreprises de Toboggan fonctionne un peu différemment.
+Le gérant du magasin de location réalise soudainement qu'il vient de vous expliquer accidentellement les règles des politiques de mots-de-passe de son ancien travail, au magasin de location de luges plus bas dans la rue ! En réalité, la Politique Officielle des Entreprises de Toboggan fonctionne un peu différemment.
 
 Chaque politique décrit en fait deux *positions dans le mot-de-passe*, où ``1`` désigne le premier caractère, ``2`` le deuxième caractère, et ainsi de suite (Attention, les Politiques des Entreprises de Toboggan n'utilisent pas le concept "index zéro" !). *Exactement une de ces positions* doit contenir la lettre donnée. D'autres éventuelles occurrences de cette lettre dans le mot-de-passe sont hors du champ d'application des politiques.
 
